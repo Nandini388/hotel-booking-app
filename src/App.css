@@ -1,0 +1,25 @@
+nav {
+  background-color: #1e3a8a;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav h2 {
+  font-size: 30px;
+} 
+.hero {
+  text-align: center;
+  padding: 60px;
+}
+
+.hero h1 {
+  font-size: 45px;
+  color: #1e3a8a;
+}
+
+.hero p {
+  margin-top: 10px;
+  font-size: 20px;
+  color: gray;
+}
